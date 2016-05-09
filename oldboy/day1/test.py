@@ -3,3 +3,6 @@
 
 
 print 'hello world'
+print 'zhoujunchen'
+a = 'nihao'
+print a
